@@ -1,0 +1,33 @@
+﻿{
+	"version": 1706987813,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.webp",
+		"images/sprite2-sheet0.webp",
+		"images/sprite2-sheet1.webp",
+		"images/sprite3-sheet0.webp",
+		"images/sprite3-sheet1.webp",
+		"images/users-sheet0.webp",
+		"images/sprite4-sheet0.webp",
+		"images/sprite5-sheet0.webp",
+		"images/sprite6-sheet0.webp",
+		"images/sprite7-sheet0.webp",
+		"images/sprite8-sheet0.webp",
+		"images/sprite9-sheet0.webp",
+		"images/sprite10-sheet0.webp",
+		"images/sprite11-sheet0.webp",
+		"images/sprite12-sheet0.webp",
+		"images/sprite13-sheet0.webp",
+		"images/sprite14-sheet0.webp",
+		"icon-16.webp",
+		"icon-32.webp",
+		"icon-114.webp",
+		"icon-128.webp",
+		"icon-256.webp",
+		"loading-logo.webp",
+		"adapter.js"
+	]
+}
