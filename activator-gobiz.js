@@ -1,0 +1,1 @@
+{"status":1,"data":[{"purchase_code":"1f85e1ac-880b-468e-a550-df1e7cce785a","config_key":"1f85e1ac-880b-468e-a550-df1e7cce785b","config_value":"1f85e1ac-880b-468e-a550-df1e7cce785c","site_name":"GoBiz"}]}
